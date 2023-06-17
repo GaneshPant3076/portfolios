@@ -3,15 +3,13 @@ layout: post
 title: A Beginner's Guide, Learning Web Development Made Easy
 
 date: 2023-06-17 15:5:55
-image: /assets/images/blog/post-5.jpg
+image: /assets/images/logo/logo.png
 author: Ganesh PAnt
 tags: Web Development
 ---
 
 **Introduction:
 Web development has become an increasingly valuable skill in today's digital age. Whether you aspire to become a professional web developer or simply want to create your own website, learning web development opens up a world of possibilities. In this blog post, we will provide you with a beginner's guide on how to learn web development and set you on the path to success.**
-
-
 
 1.Set Clear Goals:
 Begin by defining your goals and what you hope to achieve through learning web development. Do you want to focus on front-end development, back-end development, or both? Understanding your objectives will help you tailor your learning journey accordingly.
