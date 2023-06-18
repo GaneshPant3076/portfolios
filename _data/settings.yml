@@ -39,8 +39,8 @@ hero:
   hero-title: Hi! I’m <br> Ganesh Pant
 
 social:
-  - { icon: "ti-facebook", link: "https://facebook.com/ganesh.pant.129" }
-  - { icon: "ti-github", link: "https://github.com/GaneshPant3076" }
+  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-github", link: "#" }
   - { icon: "ti-twitter", link: "#" }
   - { icon: "ti-linkedin", link: "#" }
 
